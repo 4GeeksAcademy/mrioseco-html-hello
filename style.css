@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+.post {
+    height: 1600px;
+    width: 1200px;
+    background: white;
+    margin: auto;
+}
+.post-header {
+    display: flex;
+}
+.img-header {
+    width: 200px;
+    height: 200px;
+    padding-top: 5px;
+}
+.img-mas {
+    width: 75px;
+    height: 75px;
+    padding-top: 50px;
+    padding-left: 780px;
+}
+h1 {
+    height: 100%;
+    padding-top:30px;
+    letter-spacing: 1px;
+}
